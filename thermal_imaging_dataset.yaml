@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/mini_project/thermal_imaging_dataset/images/train
+val: /content/drive/MyDrive/mini_project/thermal_imaging_dataset/images/val
+
+nc: 4
+names: ['bicycle', 'car', 'dog', 'person']
