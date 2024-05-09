@@ -4,7 +4,8 @@ In the input it takes a thermal image and as an output it detects four classes o
 which are Person, Cars, Bycycles and Dogs.
 The dataset which is used for the training is a part of FLIR dataset which consists of 1772 images. Where 1000 images are used for training the model and 772 
 images are used for validation of the model.
-The object detection model used for this purpose is **YOLO V5s**.
-
+The object detection model used for this purpose is YOLO V5s.
+There are a total of 39 epochs for training the model. 
+All the work done is by using **Google Colab T4**.
 </p>
 
