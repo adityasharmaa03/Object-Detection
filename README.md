@@ -6,6 +6,6 @@ The dataset which is used for the training is a part of FLIR dataset which consi
 images are used for validation of the model.
 The object detection model used for this purpose is YOLO V5s.
 There are a total of 39 epochs for training the model. 
-All the work done is by using **Google Colab T4**.
+All the work done is by using Google Colab T4.
 </p>
 
